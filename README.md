@@ -27,3 +27,6 @@ A catalog-style interface neatly lists various flavors like strawberry, vanilla,
 4. Order Confirmation Page
 After placing an order, users are greeted with a green tick and the message “Order Has Been Taken” followed by a warm “Thank you.” message, adding a personal and satisfying conclusion to the experience.
 
+OUTPUT:
+
+https://github.com/user-attachments/assets/725fbbc8-19e4-4384-9eee-e00190756b3a
